@@ -14,8 +14,13 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@next/eslint-plugin-next": "^13.4.7",
     "@types/node": "20.3.2",
     "@types/react": "18.2.14",
-    "typescript": "5.1.5"
+    "@typescript-eslint/eslint-plugin": "^5.60.1",
+    "@typescript-eslint/parser": "^5.60.1",
+    "eslint": "^8.43.0",
+    "eslint-plugin-react": "^7.32.2",
+    "typescript": "5.0.4"
   }
 }
