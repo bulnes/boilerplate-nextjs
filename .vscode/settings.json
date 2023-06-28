@@ -1,0 +1,25 @@
+{
+  "eslint.format.enable": true,
+  "editor.formatOnPaste": true,
+  "eslint.options": {
+    "configFile": ".eslintrc.json"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true,
+  },
+  "files.associations": {
+    ".env.*": "dotenv",
+    ".prettierrc": "json"
+  },
+  "files.eol": "\r\n", // CRLF
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.highlightModifiedTabs": true,
+}

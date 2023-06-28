@@ -1,12 +1,11 @@
 type Props = {
-  title: string;
-};
+  title: string
+}
 
-export default function Home({ title = "React" }: Props) {
+export default function Home({ title = 'React' }: Props) {
   return (
     <>
       <h1>Hello {title} World!</h1>
     </>
-  );
+  )
 }
-
