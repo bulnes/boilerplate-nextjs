@@ -1,11 +1,5 @@
-type Props = {
-  title: string
-}
+import Main from 'components/Main'
 
-export default function Home({ title = 'React' }: Props) {
-  return (
-    <>
-      <h1>Hello {title} World!</h1>
-    </>
-  )
+export default function Home() {
+  return <Main />
 }
