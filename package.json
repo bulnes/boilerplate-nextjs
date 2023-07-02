@@ -37,16 +37,16 @@
     "@storybook/blocks": "^7.0.24",
     "@storybook/nextjs": "^7.0.24",
     "@storybook/react": "^7.0.24",
-    "@storybook/testing-library": "^0.0.14-next.2",
+    "@storybook/testing-library": "^0.2.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.5.2",
-    "@types/node": "20.3.2",
+    "@types/node": "20.3.3",
     "@types/react": "18.2.14",
     "@typescript-eslint/eslint-plugin": "^5.60.1",
     "@typescript-eslint/parser": "^5.60.1",
     "babel-plugin-styled-components": "^2.1.4",
-    "eslint": "^8.43.0",
+    "eslint": "^8.44.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
@@ -59,6 +59,6 @@
     "plop": "^3.1.2",
     "prettier": "2.8.8",
     "storybook": "^7.0.24",
-    "typescript": "5.0.4"
+    "typescript": "5.1.6"
   }
 }
