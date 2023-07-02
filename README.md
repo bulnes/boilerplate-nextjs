@@ -2,6 +2,14 @@
 
 This project aims to be the boilerplate for new NextJS applications. It is possible to create projects with CI/CD, tests, and storybooks, among other things already configured.
 
+## Usage
+
+To create a new NextJS using this Boilerplate, just run the command bellow:
+
+```
+npx create-next-app@latest --example https://github.com/bulnes/boilerplate-nextjs
+```
+
 ## CI/CD
 
 This Boilerplate uses **dependabot** tool to check (monthly) all existing updates for all dependencies used in this project.
